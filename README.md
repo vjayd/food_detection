@@ -8,3 +8,4 @@ This repo contains the code to train and test the custom dataset. The emphasis i
 3. Run the code cells
 
 ![Result1](./indianfood.png)
+![Result2](./indianfood1.png)
