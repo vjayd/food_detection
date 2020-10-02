@@ -7,3 +7,4 @@ This repo contains the code to train and test the custom dataset. The emphasis i
 2. Extract the dataset indianfood.zip 
 3. Run the code cells
 
+![Result1](./indianfood.png)
